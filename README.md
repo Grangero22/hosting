@@ -1,2 +1,0 @@
-# mapas
-mapas defor
